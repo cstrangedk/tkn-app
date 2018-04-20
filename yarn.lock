@@ -37,6 +37,12 @@
   dependencies:
     csstype "^2.2.0"
 
+"@types/reactstrap@^5.0.21":
+  version "5.0.21"
+  resolved "https://registry.yarnpkg.com/@types/reactstrap/-/reactstrap-5.0.21.tgz#212226b4d53b7a536775d82f981ad0c1770992be"
+  dependencies:
+    "@types/react" "*"
+
 abab@^1.0.4:
   version "1.0.4"
   resolved "https://registry.yarnpkg.com/abab/-/abab-1.0.4.tgz#5faad9c2c07f60dd76770f71cf025b62a63cfd4e"
