@@ -1,0 +1,18 @@
+.left-nav-bar {
+    background-color: black;
+    height: 100vh;
+    width: 215px;
+}
+
+.left-nav-bar .nav-link:hover {
+    background-color: #4f4f4f;
+    border-left: 5px solid #00FF00;
+}
+
+.left-nav-bar .nav-link {
+    text-transform: uppercase;
+    color: #FFFFFF;
+    font-weight: bold;
+    opacity: 0.5;
+    padding: 20px 25px;
+}

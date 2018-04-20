@@ -33,7 +33,7 @@ export default class TopNavBar extends React.Component<{}, TopNavBarState> {
                 <Container>
                     <Navbar color="faded" light={true} expand="md">
                         <NavbarBrand href="/">
-                            <img src={require('../assets/img/logo_icon_white.png')} className="brand-logo"/>
+                            <img src={require('../../assets/img/logo_icon_white.png')} className="brand-logo"/>
                         </NavbarBrand>
                         <NavbarToggler onClick={this.toggle} />
                         <Collapse isOpen={this.state.isOpen} navbar={true}>
