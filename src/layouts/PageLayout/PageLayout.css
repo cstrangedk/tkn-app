@@ -1,0 +1,8 @@
+.right-container {
+    position: fixed !important;
+    margin-left: 225px;
+}
+
+.right-container .main-wrapper {
+    padding: 30px;
+}
